@@ -1,4 +1,8 @@
 sp-cloud
 ========
 
-This repository is for sp-cloud products.
+このリポジトリは、ビジュアルリサーチのテスト用です。
+
+
+
+
